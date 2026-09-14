@@ -1,3 +1,23 @@
+# BBC Search Agent Notes
+
+## Project context
+
+BBC Search is a small AI-coding practice project for bilingual subtitle search and corresponding clip playback/sharing. Keep implementation aligned with the current phase and repository documentation rather than expanding scope by default.
+
+## Working boundary
+
+- Use the current repository docs as the primary project context.
+- Design exploration is allowed: propose alternatives, question existing implementation choices, and suggest simpler approaches when useful.
+- Do not silently change the intended product scope or phase goals while implementing another task.
+- For changes that materially alter data shape, storage contracts, or phase boundaries, make the intended final state explicit before editing.
+- Raw copyrighted video, subtitle source files, generated clips, and secrets stay outside GitHub.
+
+## Engineering
+
+- Prefer existing repository structure and conventions unless there is a clear reason to improve them.
+- Keep machine-specific values and secrets out of tracked files.
+- Validate changes with the relevant tests or checks when possible.
+
 <!-- BEGIN:nextjs-agent-rules -->
 
 # This is NOT the Next.js you know
