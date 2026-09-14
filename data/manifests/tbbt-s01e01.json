@@ -1,0 +1,13 @@
+{
+  "episode": "tbbt-s01e01",
+  "source": {
+    "type": "bilingual_srt"
+  },
+  "cues": 422,
+  "segments": 422,
+  "bilingual": 419,
+  "english_only": 1,
+  "chinese_only": 2,
+  "invalid": 0,
+  "version": 1
+}
