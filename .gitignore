@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+node_modules/
+.next/
+
+data/raw/
+data/generated/
+
+*.mp4
+*.mkv
+*.avi
+*.srt
+
+__pycache__/
+.venv/
