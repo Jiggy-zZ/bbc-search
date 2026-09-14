@@ -995,25 +995,25 @@ migration
 
 在进入 Phase 2 前逐项检查：
 
-- [ ] 已创建 Supabase Free project
-- [ ] 已执行 `001_initial_schema.sql`
-- [ ] Table Editor 可以看到 `episodes`
-- [ ] Table Editor 可以看到 `dialogue_segments`
-- [ ] Table Editor 可以看到 `clips`
-- [ ] 已取得 Supabase Project URL
-- [ ] 已取得 Supabase Secret key
-- [ ] 已开通 Cloudflare R2
-- [ ] 已创建 `bbc-search-media`
-- [ ] bucket 未开启 Public Access
-- [ ] 已创建只作用于 `bbc-search-media` 的 R2 credentials
-- [ ] 已保存 Access Key ID
-- [ ] 已保存 Secret Access Key
-- [ ] 已创建本地 `.env.local`
-- [ ] `git status` 不显示 `.env.local`
-- [ ] `npm run dev` 可以启动
-- [ ] `/api/health` 返回 `status: ok`
-- [ ] database = `ok`
-- [ ] storage = `ok`
+- [x] 已创建 Supabase Free project
+- [x] 已执行 `001_initial_schema.sql`
+- [x] Table Editor 可以看到 `episodes`
+- [x] Table Editor 可以看到 `dialogue_segments`
+- [x] Table Editor 可以看到 `clips`
+- [x] 已取得 Supabase Project URL
+- [x] 已取得 Supabase Secret key
+- [x] 已开通 Cloudflare R2
+- [x] 已创建 `bbc-search-media`
+- [x] bucket 未开启 Public Access
+- [x] 已创建只作用于 `bbc-search-media` 的 R2 credentials
+- [x] 已保存 Access Key ID
+- [x] 已保存 Secret Access Key
+- [x] 已创建本地 `.env.local`
+- [x] `git status` 不显示 `.env.local`
+- [x] `npm run dev` 可以启动
+- [x] `/api/health` 返回 `status: ok`
+- [x] database = `ok`
+- [x] storage = `ok`
 
 全部打勾后，Phase 1 的人工配置部分才算完成。
 
