@@ -22,6 +22,9 @@ AI Coding 练手项目：搜索双语电视剧台词，并播放、分享对应�
 
 See [`docs/IMPLEMENTATION_MANUAL.md`](docs/IMPLEMENTATION_MANUAL.md).
 
+For a clean Windows machine setup or cross-device recovery, see
+[`docs/setup_windows.md`](docs/setup_windows.md).
+
 ## Repository rule
 
 原始版权剧集、SRT、生成视频和 secrets 不进入 GitHub。
